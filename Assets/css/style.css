@@ -1,0 +1,62 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background: #F4F2F5
+}
+
+img {
+  padding: 10px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  line-height: 60px;
+  /* Vertically center the text there */
+  background-color: #778C6A;
+  color: white;
+}
+
+.container {
+  padding: 5px;
+}
+
+.text {
+  color: #F4F2F5;
+}
+
+.caption {
+  position: absolute;
+  top: 65%;
+  width: 100%;
+}
+
+.col-md-5 button {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  color: #F4F2F5;
+  transform: translate(-50%, -50%);
+  background-color: #949A8C;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #737066;
+}
+
+button.ghb {
+  top: 85%;
+}
+
+button.repo {
+  top: 50%;
+}
