@@ -1,31 +1,26 @@
-# bootstrapPortfolio
+# Portfolio
 
-This is my portfolio with links to past projects, my Linkedin account, and other places people can reach me.
+This is my portfolio with links to past projects, my Linkedin account, and different ways people can reach out to me.
 
-## Problem
-Portfolio was built simply with some native CSS, needed something greater to make look nicer.
-Update: Portfolio has aged quite a bit as my skills have improved. Needs to be updated.
-
-## Solution
-Bootstrap was added and elements updated to improve look and design of portfolio.
-Update: Code has been cleaned up, website too with new colors and text and styling.
+### Screenshots
+Coming Soon
 
 ### Technology Used
-HTML, CSS, Bootstrap
+Coming Soon
 
-#### Github Repos Linked to on Portfolio Page
+#### GitHub Repos Linked to on Portfolio Page
 
-[Next Best Move](https://github.com/zzzbray/evenStevens)
+[Next Best Move](https://github.com/zzzbray/evenStevens) (Project One)
 
-[Train Tracker](https://github.com/zzzbray/trainScheduler)
+[Mega Flix](https://github.com/zzzbray/projectTwo) (Project Two)
 
-[Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame)
+[Train Tracker](https://github.com/zzzbray/trainScheduler) (Firebase)
 
-[Giftastic](https://github.com/zzzbray/giftastic)
+[Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame) (jQuery)
 
-[Liri](https://github.com/zzzbray/liriNodeApp)
+[Liri](https://github.com/zzzbray/liriNodeApp) (LIRI  - HW08)
 
-[friendFinder](https://github.com/zzzbray/friendFinder)
+[friendFinder](https://github.com/zzzbray/friendFinder) (Node and Express Servers - HW11)
 
-#### GitHub Pages Deployment Link
-https://zzzbray.github.io/bootstrapPortfolio/
+#### Deployment on GitHub Pages
+https://zzzbray.github.io/Portfolio/
