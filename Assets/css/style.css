@@ -17,6 +17,10 @@ img {
   background-color: #778C6B;
 }
 
+.column{
+  margin:auto;
+}
+
 
 .footer {
   position: absolute;
@@ -59,7 +63,7 @@ img {
 }
 
 button.ghb {
-  top: 85%;
+  top: 80%;
 }
 
 button.repo {
