@@ -18,7 +18,7 @@ Coming Soon
 
 [Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame) (jQuery)
 
-[Liri](https://github.com/zzzbray/liriNodeApp) (LIRI)
+[Liri](https://github.com/zzzbray/liriNodeApp) (CLI App)
 
 [friendFinder](https://github.com/zzzbray/friendFinder) (Node and Express Servers)
 
