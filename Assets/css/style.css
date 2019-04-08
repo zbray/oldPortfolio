@@ -48,7 +48,7 @@ img {
   width: 100%;
 }
 
-.col-md-5 button {
+/* .col-md-5 button {
   position: absolute;
   top: 15%;
   left: 50%;
@@ -56,7 +56,7 @@ img {
   transform: translate(-50%, -50%);
   background-color: #949A8C;
   border: none;
-}
+} */
 
 .btn:hover {
   background-color: #737066;
