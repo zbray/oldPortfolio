@@ -12,15 +12,15 @@ Coming Soon
 
 [Next Best Move](https://github.com/zzzbray/evenStevens) (Project One)
 
-[Mega Flix](https://github.com/zzzbray/projectTwo) (Project Two)
-
 [Train Tracker](https://github.com/zzzbray/trainScheduler) (Firebase)
 
 [Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame) (jQuery)
 
+[Giftastic](https://github.com/zzzbray/giftastic)
+
 [Liri](https://github.com/zzzbray/liriNodeApp) (CLI App)
 
-[friendFinder](https://github.com/zzzbray/friendFinder) (Node and Express Servers)
+[Mega Flix](https://github.com/zzzbray/projectTwo) (Project Two)
 
 #### Deployment on GitHub Pages
 https://zzzbray.github.io/portfolio/
