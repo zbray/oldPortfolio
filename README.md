@@ -24,3 +24,9 @@ HTML, CSS, Bootstrap
 
 #### Deployment on GitHub Pages
 https://zzzbray.github.io/portfolio/
+
+#### Roadmap
+1. Correct spacing issue on cards
+2. Continue Woods theme throughout, decide on background color
+3. Start from scratch, breaking free from bootstrap/wireframe
+4. Fill out text on about page to tell my story
