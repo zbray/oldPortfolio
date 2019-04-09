@@ -23,4 +23,4 @@ Coming Soon
 [friendFinder](https://github.com/zzzbray/friendFinder) (Node and Express Servers)
 
 #### Deployment on GitHub Pages
-https://zzzbray.github.io/Portfolio/
+https://zzzbray.github.io/portfolio/
