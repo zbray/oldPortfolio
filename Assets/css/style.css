@@ -48,15 +48,11 @@ img {
   width: 100%;
 }
 
-/* .col-md-5 button {
-  position: absolute;
-  top: 15%;
-  left: 50%;
+.col-md-5 button {
   color: #F4F2F5;
-  transform: translate(-50%, -50%);
   background-color: #949A8C;
   border: none;
-} */
+}
 
 button {
   text-align: center;
@@ -70,6 +66,9 @@ button {
   background-color: #737066;
 }
 
+h5{
+  text-align: center;
+}
 button.ghb {
   top: 80%;
 }
