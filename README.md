@@ -6,7 +6,7 @@ This is my portfolio with links to past projects, my Linkedin account, and diffe
 Coming Soon
 
 ### Technology Used
-Coming Soon
+HTML, CSS, Bootstrap
 
 #### GitHub Repos Linked to on Portfolio Page
 
