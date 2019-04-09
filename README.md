@@ -16,7 +16,7 @@ Coming Soon
 
 [Lenzo's Pictogram Game](https://github.com/zzzbray/lenzosPictogramGame) (jQuery)
 
-[Giftastic](https://github.com/zzzbray/giftastic)
+[Giftastic](https://github.com/zzzbray/giftastic) (AJAX)
 
 [Liri](https://github.com/zzzbray/liriNodeApp) (CLI App)
 
